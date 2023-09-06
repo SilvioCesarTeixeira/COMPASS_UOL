@@ -1,1 +1,3 @@
-arquivo 'a' adicionado
+arquivo 'a.txt' adicionado 
+arquivo 'a.txt' alterado logo em seguida
+este arquivo será enviado para o repositório remoto no github
