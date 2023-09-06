@@ -1,1 +1,3 @@
-rquivo 'b' adicionado
+arquivo 'b' adicionado
+este arquivo foi alterado para depois ser 
+baixado no repositório clonado
